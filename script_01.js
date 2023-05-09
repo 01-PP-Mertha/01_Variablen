@@ -28,8 +28,14 @@
 // birthDate = "19/05/2000";
 // console.log(birthDate);
 
+// let firstName, familyName, birthDate;
+// firstName = "Peter";
+// familyName = "Pan";
+// birthDate = "19/05/2000";
+// console.log(firstName, familyName, birthDate);
+
 let firstName, familyName, birthDate;
-firstName = "Peter";
-familyName = "Pan";
-birthDate = "19/05/2000";
+firstName = prompt("Bitte Vornamen eingeben");
+familyName = prompt("Bitte Nachnamen eingeben");
+birthDate = prompt("Bitte Geburtsdatum eingeben");
 console.log(firstName, familyName, birthDate);
