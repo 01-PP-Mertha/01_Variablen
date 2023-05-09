@@ -16,15 +16,20 @@
 
 /***** 02 Deklaration + Wertzuweisung I *******/
 
-let firstName;
-firstName = "Daniel";
-console.log(firstName);
+// let firstName;
+// firstName = "Peter";
+// console.log(firstName);
 
-let familyName;
-familyName = "Mertha";
-console.log(familyName);
+// let familyName;
+// familyName = "Pan";
+// console.log(familyName);
 
-let birthDate;
-birthDate = "19/04/1989";
-console.log(birthDate);
+// let birthDate;
+// birthDate = "19/05/2000";
+// console.log(birthDate);
 
+let firstName, familyName, birthDate;
+firstName = "Peter";
+familyName = "Pan";
+birthDate = "19/05/2000";
+console.log(firstName, familyName, birthDate);
