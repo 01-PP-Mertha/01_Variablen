@@ -34,9 +34,20 @@
 // birthDate = "19/05/2000";
 // console.log(firstName, familyName, birthDate);
 
-let firstName, familyName, birthDate;
-firstName = prompt("Bitte Vornamen eingeben");
-familyName = prompt("Bitte Nachnamen eingeben");
-birthDate = prompt("Bitte Geburtsdatum eingeben");
-console.log(firstName, familyName, birthDate);
-console.log(typeof firstName);
+// let firstName, familyName, birthDate;
+
+// firstName = prompt("Bitte Vornamen eingeben");
+// familyName = prompt("Bitte Nachnamen eingeben");
+// birthDate = prompt("Bitte Geburtsdatum eingeben");
+
+// console.log(firstName, familyName, birthDate);
+// console.log(typeof firstName);
+
+let test;
+test = "Max";
+test = 2;
+test = true;
+
+
+console.log("Datentyp: " + typeof test);
+console.log("Inhalt: " + test);
