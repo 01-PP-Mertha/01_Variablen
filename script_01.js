@@ -44,9 +44,9 @@
 // console.log(typeof firstName);
 
 let test;
-test = "Max";
-test = 2;
-test = true;
+test = "Max"; // string
+test = 2; // number
+test = true; // boolean
 
 
 console.log("Datentyp: " + typeof test);
