@@ -39,3 +39,4 @@ firstName = prompt("Bitte Vornamen eingeben");
 familyName = prompt("Bitte Nachnamen eingeben");
 birthDate = prompt("Bitte Geburtsdatum eingeben");
 console.log(firstName, familyName, birthDate);
+console.log(typeof firstName);
