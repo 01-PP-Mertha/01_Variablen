@@ -80,3 +80,21 @@
 // // Ausgabe
 // console.log("ageJohn: " + ageJohn);
 // console.log("ageMarc: " + ageMarc);
+
+
+/***** 05 Beispiel - Berechnung *******/
+
+// const birthYearJohn = 2000;
+// const birthYearMarc = 1990;
+// let ageJohn, ageMarc;
+
+// let date = new Date();
+// let year = date.getFullYear();
+// // console.log(year);
+
+// ageJohn = year - birthYearJohn;
+// ageMarc = year - birthYearMarc;
+
+// // Ausgabe
+// console.log("ageJohn: " + ageJohn);
+// console.log("ageMarc: " + ageMarc);
